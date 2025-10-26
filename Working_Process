@@ -3,3 +3,5 @@ To create a backdoor, we must create two programs
 2. Payload (On target machine)
 
 From the server we'll be sending instructions to the payload (which is on the target machine)
+From the payload we want to send back our output to the server
+This is the communication between server and the payload looks like
