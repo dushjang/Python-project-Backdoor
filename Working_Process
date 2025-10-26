@@ -1,0 +1,5 @@
+To create a backdoor, we must create two programs
+1. Server (Our Linux machine)
+2. Payload (On target machine)
+
+From the server we'll be sending instructions to the payload (which is on the target machine)
